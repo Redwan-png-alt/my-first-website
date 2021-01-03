@@ -1,0 +1,19 @@
+.farcry {
+    background-color: white;
+    color: rgb(197, 171, 133);
+    font-size: 50px;
+    border: rgba(128, 255, 0, 0.596);
+    border: 10px 30px;
+    display: inline;
+}
+.one {
+    background-color: tomato;
+    color: turquoise;
+    border-style: solid;
+    border: violet;
+    margin: 50px 100px;
+    padding: 50px ;
+    border-radius: 50px;
+    display: flex;
+    text-align: justify;
+}
